@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### OpenAI API Key
+get apiKey in your openAI account
+put your apiKey in localStorage
